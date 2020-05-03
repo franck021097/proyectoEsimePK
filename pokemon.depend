@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1484081302 source:c:\users\hp1\desktop\juego pokemon\pokemon\main.cpp
+	<iostream>
+	<allegro.h>
+
+1484090034 source:c:\users\hp1\documents\documentacion\archivos cpp\juego pokemon\pokemon\main.cpp
+	<iostream>
+	<allegro.h>
+
